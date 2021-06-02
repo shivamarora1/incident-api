@@ -1,0 +1,11 @@
+{
+	"port":8080,
+	"lp":"logs/logs.log",
+	"db":{
+	"dt":"postgres",
+	"cs":"host=XXXXXX.rds.amazonaws.com port=5432 dbname=<DATABASE_NAME> user=<USER_NAME> password=<PASSWORD>"
+	}
+	
+	
+	
+}
